@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Pedro Lasarini 👋
 
+Saiba mais sobre mim no meu <a href="https://beacons.ai/lasarini/" target="_blank">Beacons</a>.
+ 
 <!--
 **lasarinii/lasarinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
