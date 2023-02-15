@@ -8,7 +8,7 @@ Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
 * Engenharia de Computação - Univesp (2026)
 
 ## Setup?
-* Windows 11 PRO && Wsl2 - ArchWSL && Docker.
+* Windows 11 PRO && Wsl2 - ArchWSL && LunarVim && Docker.
 
 ## O que mais gosto?
 * Svelte;
