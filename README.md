@@ -1,7 +1,48 @@
-### Olá, eu sou o Pedro Lasarini 👋
+# Bem Vindo! 👋
 
 Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
  
+## Quem sou eu?
+* Pedro Lasarini
+* 23/11/2002
+* Engenharia de Computação - Univesp (2026)
+
+## Setup?
+* Windows 11 PRO && Wsl2 - ArchWSL && Docker.
+
+## O que mais gosto?
+* Svelte;
+* C#;
+* Go;
+* Rust.
+
+## O que sei fazer?
+* *under development...*
+
+## O que estou estudando?
+* Docker;
+* Linux;
+* HTML5 & CSS3;
+* SEO (Search Engine Optimization);
+* TailwindCSS;
+* Bootstrap;
+* JavaScript ES6;
+* TypeScript;
+* Banco de Dados / MySQL;
+* ShellScript;
+* Go;
+* Rust;
+* C#;
+* C++;
+* Python;
+* Svelte;
+* Angular;
+
+## Fun fact: Sou músico
+* Piano / Teclado;
+* Violão;
+* Bateria;
+* Etc...
 <!--
 **lasarinii/lasarinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
