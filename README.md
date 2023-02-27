@@ -20,6 +20,8 @@ Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
 * *under development...*
 
 ## O que estou estudando?
+* Deno;
+* Vercel && edge deploy;
 * Docker;
 * Linux;
 * HTML5 & CSS3;
