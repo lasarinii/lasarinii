@@ -39,6 +39,7 @@ Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
 * Python;
 * Svelte;
 * Angular;
+* Tauri;
 
 ## Fun fact: Sou músico
 * Piano / Teclado;
