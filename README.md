@@ -33,6 +33,7 @@ Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
 * JavaScript ES6;
 * TypeScript;
 * Banco de Dados / MySQL;
+* SQLite;
 * ShellScript;
 * Go;
 * Rust;
