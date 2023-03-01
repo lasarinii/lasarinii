@@ -20,6 +20,8 @@ Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
 * *under development...*
 
 ## O que estou estudando?
+* PHP;
+* Ruby && Ruby on Rails;
 * Deno;
 * Vercel && edge deploy;
 * Docker;
