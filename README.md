@@ -46,6 +46,7 @@ Saiba mais sobre mim no meu [Beacons](https://beacons.ai/lasarini/).
 * Tauri;
 
 ## Fun fact: Sou músico
+Dou aulas na [Sozo](https://instagram.com/sozo_estudio), segue lá!!!
 * Piano / Teclado;
 * Violão;
 * Bateria;
